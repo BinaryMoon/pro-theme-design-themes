@@ -7,7 +7,7 @@ Welcome to the Pro Theme Design WordPress Themes Archive! 🎉
 This repository is a collection of WordPress themes previously available on [Pro Theme Design](https://prothemedesign.com). These themes are now **free to download and use** under the terms of the **GPLv3 license**. 
 
 ## Important Notes
-
+If you have an active subscription then I will continue to offer support until the subscription expires. Otherwise no support is offered.
 - **No Updates or Maintenance**: These themes are no longer actively developed or maintained. What you see is what you get.
 - **No Support**: I no longer use WordPress, so I’m unable to provide any help or guidance with these themes. Please use them as-is.
 - **License**: All themes are released under the **GPLv3 license**. This means you're free to use, modify, and share them as long as you comply with the license terms. [Learn more about the GPLv3 license here](https://www.gnu.org/licenses/gpl-3.0.html).
